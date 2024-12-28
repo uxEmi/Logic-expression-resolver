@@ -148,6 +148,6 @@ int main() {
 
   cout << "Propozitii totale / adevarate: (" << propozitiiTotale << " / " << propozitiiAdevarate << ")";
   cout << endl;
-
+  cout<<":)";
   return 0;
 }
